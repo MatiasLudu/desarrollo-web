@@ -38,6 +38,10 @@ body{
     background-color: var(--color-background);
 }
 
+a{
+    cursor: pointer;
+}
+
 /* ESTILOS DE ESTRUCTURA */
 
 .layout{
@@ -988,11 +992,11 @@ body{
 }
 
 .author__container-img{
-    border-radius: 3.5rem;
-    -webkit-border-radius: 3.5rem;
-    -moz-border-radius: 3.5rem;
-    -ms-border-radius: 3.5rem;
-    -o-border-radius: 3.5rem;
+    border-radius: 5rem;
+    -webkit-border-radius: 5rem;
+    -moz-border-radius: 5rem;
+    -ms-border-radius: 5rem;
+    -o-border-radius: 5rem;
     overflow: hidden;
 }
 
