@@ -2,46 +2,28 @@
 :root{
     --mx-width: 1320px;
     --color-text-body: #D3D3D4;
-<<<<<<< HEAD
-    --color-primary: #5956e9;
-    --color-secondary: #D3D3D4;
-    --color-banner: #27272E;
-    --color-text-btn: #fff;
-    --color-bg-btn: #2522BA;
-=======
     --color-primary: #FFDC60;
     --color-secondary: #D3D3D4;
     --color-banner: #47474b;
     --color-text-btn: #fff;
     --color-bg-btn: #6cc6d6;
->>>>>>> 08b3af0 (Big Update)
     --color-subtitle: #c75c6f;
     --color-title: #D3D3D4;
     --color-bg-services: #27272E;
     --color-bg-projects: #292930;
     --color-bg-dark: #27272e;
     --color-hover-dark: #FFDC60;
-<<<<<<< HEAD
-=======
     --color-hover-dark2: #303035;
->>>>>>> 08b3af0 (Big Update)
     --color-text-description: #99A1AA;
     --color-borders: #393940;
 }
 
-<<<<<<< HEAD
-=======
 /*FFDC60*/
 
->>>>>>> 08b3af0 (Big Update)
 body{
     background-color: #212121;
 }
 
-<<<<<<< HEAD
-.banner__btn{
-    background-color: var(--color-primary);
-=======
 .navbar__link-logo{
     width: 187px;
     height: 60px;
@@ -62,7 +44,6 @@ body{
     color: var(--color-hover-dark2);
     background-color: var(--color-primary);
     box-shadow: none;
->>>>>>> 08b3af0 (Big Update)
 }
 
 .menu__navbar--fixed{
@@ -81,12 +62,6 @@ body{
     color: var(--color-hover-dark);
 }
 
-<<<<<<< HEAD
-.contact__btn{
-    background-color: var(--color-primary);
-}
-=======
->>>>>>> 08b3af0 (Big Update)
 
 .fleft__group{
     background-color: #27272E;
@@ -126,8 +101,6 @@ body{
     color: var(--color-hover-dark);
 }
 
-<<<<<<< HEAD
-=======
 .stat__count{
     color: var(--color-hover-dark);
 }
@@ -137,7 +110,6 @@ body{
     border: 1px solid var(--color-hover-dark2);
 }
 
->>>>>>> 08b3af0 (Big Update)
 .new__more{
     color: var(--color-text-body);
 }
@@ -146,13 +118,10 @@ body{
     color: var(--color-hover-dark);
 }
 
-<<<<<<< HEAD
-=======
 .switcher{
     background-color: var(--color-primary);
 }
 
->>>>>>> 08b3af0 (Big Update)
 .switcher__icon-light,
 .switcher__icon-dark{
     color: var(--color-text-btn);

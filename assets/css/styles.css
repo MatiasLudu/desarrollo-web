@@ -2,34 +2,21 @@
 :root{
     --mx-width: 1320px;
     --color-text-body: #525260;
-<<<<<<< HEAD
-    --color-primary: #5956e9;
-    --color-secondary: #fff;
-    --color-banner: #2522BA;
-=======
     --color-primary: #0d6efd;
     --color-secondary: #fff;
     --color-banner: #6cc6d6;
->>>>>>> 08b3af0 (Big Update)
     --color-text-btn: #0d6efd;
     --color-bg-btn: #ffdc60;
     --color-subtitle: #c75c6f;
     --color-title: #292930;
-<<<<<<< HEAD
-    --color-bg-services: #f8f8f8;
-=======
     --color-bg-services: #D3D3D4;
->>>>>>> 08b3af0 (Big Update)
     --color-bg-projects: #ecf2f6;
     --color-bg-dark: #27272e;
     --color-hover-dark: #303035;
     --color-text-description: #99A1AA;
     --color-borders: #e3e6e9;
-<<<<<<< HEAD
-=======
     --color-background: #fcfcfc;
     --color-theme: #5d5d5f;
->>>>>>> 08b3af0 (Big Update)
 }
 
 /* ESTILOS GENERALES */
@@ -48,10 +35,7 @@ body{
     line-height: 1.5;
     font-weight: 400;
     color: var(--color-text-body);
-<<<<<<< HEAD
-=======
     background-color: var(--color-background);
->>>>>>> 08b3af0 (Big Update)
 }
 
 /* ESTILOS DE ESTRUCTURA */
@@ -91,15 +75,12 @@ body{
     width: 187px;
 }
 
-<<<<<<< HEAD
-=======
 .navbar__link-logo{
     width: 187px;
     height: 60px;
     background-image: url(../img/logo1.png);
 }
 
->>>>>>> 08b3af0 (Big Update)
 .nav__list{
     display: flex;
     flex-direction: row;
@@ -322,11 +303,7 @@ body{
     -moz-border-radius: 20px;
     -ms-border-radius: 20px;
     -o-border-radius: 20px;
-<<<<<<< HEAD
-    box-shadow: 0px 45px 80px -25px var(--color-primary);
-=======
     box-shadow: none;
->>>>>>> 08b3af0 (Big Update)
     transition: all 300ms ease-in-out;
     -webkit-transition: all 300ms ease-in-out;
     -moz-transition: all 300ms ease-in-out;
@@ -337,10 +314,7 @@ body{
 .banner__btn:hover{
     background-color: var(--color-bg-btn);
     color: var(--color-text-body);
-<<<<<<< HEAD
-=======
     box-shadow: none;
->>>>>>> 08b3af0 (Big Update)
 }
 
 .shapes__item{
@@ -845,11 +819,7 @@ body{
 }
 
 .project__title:hover{
-<<<<<<< HEAD
-    color: var(--color-banner);
-=======
     color: var(--color-primary);
->>>>>>> 08b3af0 (Big Update)
 }
 
 .project__tags{
@@ -1466,11 +1436,7 @@ body{
 }
 
 .social__link:hover > .social__img{
-<<<<<<< HEAD
-    color: var(--color-text-body);
-=======
     color: var(--color-primary);
->>>>>>> 08b3af0 (Big Update)
 }
 
 .footer__main{
@@ -1599,11 +1565,7 @@ body{
 }
 
 .widget__link:hover{
-<<<<<<< HEAD
-    color: var(--color-banner);
-=======
     color: var(--color-primary);
->>>>>>> 08b3af0 (Big Update)
 }
 
 .footer__bottom{
@@ -1647,11 +1609,7 @@ body{
 }
 
 .flinks__title:hover{
-<<<<<<< HEAD
-    color: var(--color-banner);
-=======
     color: var(--color-primary);
->>>>>>> 08b3af0 (Big Update)
 }
 
 .flinks__item{
@@ -1835,11 +1793,7 @@ body{
     position: fixed;
     top: 20rem;
     left: 0;
-<<<<<<< HEAD
-    background-color: var(--color-primary);
-=======
     background-color: var(--color-theme);
->>>>>>> 08b3af0 (Big Update)
     border-radius: 0 3rem 3rem 0;
     -webkit-border-radius: 0 3rem 3rem 0;
     -moz-border-radius: 0 3rem 3rem 0;
