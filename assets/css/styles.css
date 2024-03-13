@@ -85,6 +85,14 @@ a{
     background-image: url(../img/logo1.png);
 }
 
+.menu-mobile__link-logo{
+    width: 150px;
+    height: 40px;
+    background-image: url(../img/logo1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
 .nav__list{
     display: flex;
     flex-direction: row;
